@@ -11,8 +11,8 @@
 ---
 ### Sites
 
-개인 포트폴리오용 사이트 (https://git.reswns0210.org/#)
-개인 이메일 (reswns0210@icloud.com)
-개인 블로그 (https://blog.reswns0210.org/)
+개인 포트폴리오용 사이트 (https://git.reswns0210.org/#)  
+개인 이메일 (reswns0210@icloud.com)  
+개인 블로그 (https://blog.reswns0210.org/)  
 
 ---
