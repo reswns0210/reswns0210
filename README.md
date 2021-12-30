@@ -13,7 +13,6 @@
 
 ---
 ### Extra:
-[![readmeplants](https://readmeplants.com/get?name=reswns0210&planet=eclipse&plant=blossomTree&nameTag=blackNameTag&ground=hill&background=black)](https://github.com/devxb/readmeplants)
 
 [![reswns0210's GitHub stats](https://github-readme-stats.vercel.app/api?username=reswns0210)](https://github.com/anuraghazra/github-readme-stats)
 
